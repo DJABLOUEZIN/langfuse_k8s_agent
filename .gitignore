@@ -1,0 +1,6 @@
+.env
+# Lab-only Langfuse login and keys, shared on purpose
+!langfuse-setup/.env
+kubeconfig
+.venv/
+__pycache__/
