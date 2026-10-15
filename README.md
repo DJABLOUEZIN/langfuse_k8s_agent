@@ -23,7 +23,8 @@ Then open [docs/kubernetes-assistant-lab.pdf](./docs/kubernetes-assistant-lab.pd
 
 The Langfuse observability lab adds tracing, prompt versioning, scores and experiments to the
 Kubernetes Assistant. Its guide is online at https://kodelumi.com/w/AVWkaKxQo3zaT28p: start with
-`getting-started-with-langfuse.md`, then follow `lab.md`. [langfuse-setup/](./langfuse-setup/) runs
+`getting-started-with-langfuse.md`, then `lab-00-overview.md`, then one file per step from
+`lab-step-00-setup.md` to `lab-step-10-dashboard.md`. [langfuse-setup/](./langfuse-setup/) runs
 Langfuse on your laptop.
 
 ## Settings and credentials
