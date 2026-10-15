@@ -13,11 +13,18 @@ Both folders start empty. You build each app file by file, following its lab gui
 ## Get started
 
 ```bash
-git clone https://github.com/kserge2001/aws-k8s-ai-chat-assistant.git
-cd aws-k8s-ai-chat-assistant
+git clone https://github.com/utrains/langfuse-aws-k8s-agent.git
+cd langfuse-aws-k8s-agent
 ```
 
 Then open [docs/kubernetes-assistant-lab.pdf](./docs/kubernetes-assistant-lab.pdf) and start at step 0.
+
+## Langfuse lab
+
+The Langfuse observability lab adds tracing, prompt versioning, scores and experiments to the
+Kubernetes Assistant. Its guide is online at https://kodelumi.com/w/AVWkaKxQo3zaT28p: start with
+`getting-started-with-langfuse.md`, then follow `lab.md`. [langfuse-setup/](./langfuse-setup/) runs
+Langfuse on your laptop.
 
 ## Settings and credentials
 
